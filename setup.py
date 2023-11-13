@@ -8,6 +8,6 @@ setup(
     author='Mohammad Usman Kamran',
     author_email='umnkamran2@gmail.com',
     license='Apache License',
-    packages=['mathquiz'],
+    packages=['math_quiz'],
     install_requires=[                     
                       ])
